@@ -1,0 +1,21 @@
+---
+<<<<<<< HEAD
+title : Sitemap
+---
+
+{% for page in site.pages %}
+  {{site.address}}{{ page.url }}
+{% endfor %}
+
+{% for post in site.posts %}
+  {{site.address}}{{ post.url }}
+{% endfor %}
+=======
+# Remember to set production_url in your _config.yml file!
+title : Sitemap
+---
+{% for page in site.pages %}
+{{site.production_url}}{{ page.url }}{% endfor %}
+{% for post in site.posts %}
+{{site.production_url}}{{ post.url }}{% endfor %}
+>>>>>>> 53aa6ad0a7bd5ba2907f4aeee69f49b247d6ec8b

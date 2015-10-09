@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+_site/
+_drafts/
+.DS_Store
+.idea/
+=======
+_site/*
+_theme_packages/*
+
+Thumbs.db
+.DS_Store
+
+!.gitkeep
+
+.rbenv-version
+.rvmrc
+>>>>>>> 53aa6ad0a7bd5ba2907f4aeee69f49b247d6ec8b
