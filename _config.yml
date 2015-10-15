@@ -13,14 +13,14 @@ filter: 'tag'
 
 # Social account
 # twitter:  username
-# weibo:    ID
-# github:   username
+weibo:    tixiaoyy
+github:   sishugang
 # codepen:  username
 # dribbble: username
 
 
 # Comment
-# disqus_shortname: discussion_shortname
+disqus_shortname:小草
 
 
 # Google Analytics
@@ -40,16 +40,6 @@ pygments: true
 kramdown:
   input: GFM
 
-# 作者信息
-author: 
-  name: 司舒刚
-  email: shenglaodayu@gmail.com
-  link: http://yansu.org
-  weibo: http://weibo.com/yansu0711
-  github: http://github.com/sishugang
-
-
-
 # avatar头像及Favicon
 avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
 favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
@@ -58,7 +48,3 @@ favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 ga:
   id: UA-54767140-1
   url: yansu.org
-
-# disqus 设置
-disqus:
-  shortname: sishugang-zh
