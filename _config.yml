@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 permalink:/:year/:month/:day/:title.html
 markdown: kramdown
-pygments: true
+highlighter: pygments
 
 kramdown:
   input: GFM
