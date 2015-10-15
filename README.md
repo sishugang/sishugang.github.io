@@ -1,33 +1,17 @@
-# 3-Jekyll Theme
+# 介绍
+本人sishugang，业余前端及算法爱好者，本分析化学硕士。
+邮箱：shenglaodayu@hotmail.com
+博客：[http://sishugang.github.io].
+有前端及数据算法方面工作请联系我！！！
 
-新版 3-Jekyll，当前完成度 80%，预览请访问 [http://peiwen.lu](http://peiwen.lu)，[Github repo](https://github.com/P233/P233.github.io)。
 
 旧版请在 [https://github.com/P233/3-Jekyll/releases](https://github.com/P233/3-Jekyll/releases) 下载。
 
 
-## 针对旧版的改进
+# fork
 
-* 侧边栏使用 Tag 或 Category 做为文章分类，默认 Tag。
-* 自动生成侧边栏分类标签，基本不需要修改模板文件。但标签顺序由 Jekyll 根据时间顺序生成，需要手动调整顺序只能修改 `_includes/sidebar.html`，格式是 `<li class="sidebar-tag" data-filter="TAG">TAG</li>`，替换 `TAG`，大小写敏感。
-* 更加全面的 Sass 变量，方便个性化主题样式。
-* 暂定取消文章的标题目录。
-* 取消了嵌入 Codepen。
+* 基于3-jekyll 地址：[https://github.com/P233/3-Jekyll]
 
-
-## TODO
-
-* 搜索功能
-* Webkit 换页动画
-* 改进文章筛选动画
-* <del>集成 Google Analytics</del>
-* 文章时间，Category，Tag 归档页面
-* Favicon
-* Mobile touch swipe
-
-其他建议欢迎[提交 issue](https://github.com/P233/3-Jekyll/issues/new)
-
-
-## 使用
 
 ### 设置 `_config.yml`
 
