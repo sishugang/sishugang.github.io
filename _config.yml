@@ -1,16 +1,16 @@
 # Site settings
-title: Peiwen Lu
+title: 孤岛上的野鬼
 email: "&#104;&#105;&#064;&#112;&#101;&#105;&#119;&#101;&#110;&#046;&#108;&#117;"
-description: "Peiwen Lu's front-end blog."
+description: "天地与我为一，万物与我共生"
 baseurl: ""
-url: "http://peiwen.lu"
+url: "http://sishugang.github.io"
 permalink: /:year/:title
 
 
 # Social account
 twitter:  PeiwenLu
-# weibo:    ID
-github:   P233
+weibo:    sishugang
+github:   sishugang
 codepen:  P233
 # dribbble: username
 
