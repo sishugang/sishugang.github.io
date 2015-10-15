@@ -1,6 +1,7 @@
 permalink: /:year/:month/:day/:title.html
 markdown: kramdown
 pygments: true
+encoding:utf-8
 
 kramdown:
   input: GFM
@@ -9,7 +10,7 @@ kramdown:
 author: 
   name: 闫肃
   email: shenglaodayu@gmail.com
-  link: http://yansu.org
+  link: http://sishugang.github.io
   weibo: http://weibo.com/yansu0711
   github: http://github.com/sishugang
 
