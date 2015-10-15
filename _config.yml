@@ -1,30 +1,26 @@
 # Site settings
-title: 竹林闲步
-email: shenglaodayu@gmail.com
-description: 竹林闲步
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://sishugang.github.io" # the base hostname & protocol for your site
-rss_url: /pages/atom.xml
-
-# Sidebar filter
-# Choose 'tag' or 'category' as filter in sidebar.
-filter: 'tag'
+title: Peiwen Lu
+email: "&#104;&#105;&#064;&#112;&#101;&#105;&#119;&#101;&#110;&#046;&#108;&#117;"
+description: "Peiwen Lu's front-end blog."
+baseurl: ""
+url: "http://peiwen.lu"
+permalink: /:year/:title
 
 
 # Social account
-# twitter:  username
-weibo:    tixiaoyy
-github:   sishugang
-# codepen:  username
+twitter:  PeiwenLu
+# weibo:    ID
+github:   P233
+codepen:  P233
 # dribbble: username
 
 
 # Comment
-disqus_shortname:小草
+# disqus_shortname:
 
 
 # Google Analytics
-# google_analytics: tracking_ID
+google_analytics: UA-60830414-1
 
 
 # Build settings
@@ -33,18 +29,3 @@ sass:
   style: compressed
 gems:
   - jekyll-sitemap
-permalink: /:year/:month/:day/:title.html
-markdown: kramdown
-pygments: true
-
-kramdown:
-  input: GFM
-
-# avatar头像及Favicon
-avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
-
-# google analytics 设置
-ga:
-  id: UA-54767140-1
-  url: yansu.org
