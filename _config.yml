@@ -1,28 +1,54 @@
+# Site settings
+title: 竹林闲步
+email: shenglaodayu@gmail.com
+description: 竹林闲步
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://sishugang.github.io" # the base hostname & protocol for your site
+rss_url: /pages/atom.xml
+
+# Sidebar filter
+# Choose 'tag' or 'category' as filter in sidebar.
+filter: 'tag'
+
+
+# Social account
+# twitter:  username
+# weibo:    ID
+# github:   username
+# codepen:  username
+# dribbble: username
+
+
+# Comment
+# disqus_shortname: discussion_shortname
+
+
+# Google Analytics
+# google_analytics: tracking_ID
+
+
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed
+gems:
+  - jekyll-sitemap
 permalink: /:year/:month/:day/:title.html
 markdown: kramdown
 pygments: true
-encoding:utf-8
-saas:
-  style:compressed
-gems:
-  - jekyll-sitemap
 
 kramdown:
   input: GFM
 
-# 作者信息-社交帐号
+# 作者信息
 author: 
-  name: 司舒刚
-  email: shenglaodayu@gmail.com
-  link: http://sishugang.github.io
-  weibo: http://weibo.com/sishugang
-  github: http://github.com/sishugang
+  name: 闫肃
+  email: suyan0830@gmail.com
+  link: http://yansu.org
+  weibo: http://weibo.com/yansu0711
+  github: http://github.com/suyan
 
-# 站点信息
-title: 司舒刚的博客 
-description: 司舒刚的博客
-url: http://sishugang.github.io
-rss_url: /pages/atom.xml
+
 
 # avatar头像及Favicon
 avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
@@ -31,9 +57,8 @@ favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 # google analytics 设置
 ga:
   id: UA-54767140-1
-  url: sishugang.github.io
+  url: yansu.org
 
 # disqus 设置
 disqus:
   shortname: sishugang-zh
-
