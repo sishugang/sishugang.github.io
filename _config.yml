@@ -1,6 +1,6 @@
 # Site settings
 title: 孤岛上的野鬼
-email: "&#104;&#105;&#064;&#112;&#101;&#105;&#119;&#101;&#110;&#046;&#108;&#117;"
+email: "shenglaodayu@hotmail.com"
 description: "天地与我为一，万物与我共生"
 baseurl: ""
 url: "http://sishugang.github.io"
@@ -10,7 +10,6 @@ permalink: /:year/:title
 # Social account
 weibo:    tixiaoyy
 github:   sishugang
-codepen:  P233
 # dribbble: username
 
 
