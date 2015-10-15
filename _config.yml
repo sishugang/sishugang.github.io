@@ -8,15 +8,15 @@ kramdown:
 
 # 作者信息
 author: 
-  name: 闫肃
+  name: 司舒刚
   email: shenglaodayu@gmail.com
   link: http://sishugang.github.io
   weibo: http://weibo.com/yansu0711
   github: http://github.com/sishugang
 
 # 站点信息
-title: 闫肃的博客 
-description: 闫肃的博客
+title: 司舒刚的博客 
+description: 司舒刚的博客
 url: http://sishugang.github.io
 rss_url: /pages/atom.xml
 
