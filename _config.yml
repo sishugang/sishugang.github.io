@@ -5,6 +5,7 @@ pygments: true
 
 kramdown:
   input: GFM
+  use_coderay:true
 
 # 作者信息
 author: 
