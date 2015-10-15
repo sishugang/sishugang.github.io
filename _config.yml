@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-permalink: /:year/:month/:day/:title.html
+permalink:/:year/:month/:day/:title.html
 markdown: kramdown
 pygments: true
 
@@ -27,11 +27,11 @@ favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 # google analytics 设置
 ga:
   id: UA-54767140-1
-  url: yansu.org
+  url: sishugang.github.io
 
 # disqus 设置
 disqus:
-  shortname: suyan-zh
+  shortname: sishugang-zh
 =======
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
