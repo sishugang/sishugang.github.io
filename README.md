@@ -1,12 +1,8 @@
 # 介绍
-本人sishugang，业余前端及算法爱好者，本分析化学硕士。
-邮箱：shenglaodayu@hotmail.com
-博客：[http://sishugang.github.io].
-有前端及数据算法方面工作请联系我！！！
-
-
-旧版请在 [https://github.com/P233/3-Jekyll/releases](https://github.com/P233/3-Jekyll/releases) 下载。
-
+* 本人sishugang，业余前端及算法爱好者，本分析化学硕士。
+* 邮箱：shenglaodayu@hotmail.com
+* 博客：[http://sishugang.github.io].
+* ####有前端及数据算法方面工作请联系我！！！
 
 # fork
 
